@@ -5,7 +5,7 @@ This is a small C++ console app I coded myself to practice **OOP**, **vectors**,
 
 ---
 
-## What is this? 🤔
+## What is this❓
 
 - A basic banking system where you can create accounts, deposit, withdraw, show your balance, login/logout, and even delete your account.  
 - Simple but functional — perfect for learning and testing C++ fundamentals.  
